@@ -23,7 +23,8 @@
 ### 合同会社DMM.com セキュリティ部（2018/05〜現在）
 
 セキュリティ部門にて PCIDSS 環境のセキュリティ監視基盤の構築、AWS, GCP のクラウドセキュリティ監視体制の構築、WAF 導入支援に従事。
-少数チームで 100 以上の開発チームへセキュリティアプローチを行うため、システム・ポリシーのコード化、開発者自身がセキュリティをチェックする文化醸成を行い、セキュアな組織作りをリード。
+少数チームで 100 以上の開発チームへセキュリティアプローチするためシステム・ポリシーのコード化。  
+開発者自身がセキュリティをチェックする文化醸成し、セキュアな組織作りをリード。  
 
 #### AWS セキュリティ監視体制（CSPM)の構築
 - **概要**
@@ -124,7 +125,7 @@ DMM の開発者がセキュリティに参加する文化を実現。
   - 規模 : 1 人チーム
   - 技術 : -
 - **詳細**
-  - PHP の脆弱性（CVE-2015-4024)
+  - PHP の脆弱性 (CVE-2015-4024)
   - OpenSSL の脆弱性 DROWN (CVE-2016-0800)
 - **その他**
   - アプリケーション開発部門とインフラ部門間の調整
@@ -139,7 +140,7 @@ DMM の開発者がセキュリティに参加する文化を実現。
   - 技術 : AppScan, BurpSuite
 - **詳細**
   - PCIDSS 用セキュリティ監視基盤構築
-  - システム監視基盤構築（
+  - システム監視基盤構築
   - 外部 SOC ベンダー選定・導入
 
 
@@ -165,12 +166,11 @@ DMM の開発者がセキュリティに参加する文化を実現。
 ### 勉強会での登壇
 
 - **Architect New World on AWS 2022 (2022/04/14)**
-  - [AWSセキュリティガードレールにより開発者がセキュリティ監視するように
-なったDMM、課題と今後](https://speakerdeck.com/runble1/awssekiyuriteikatoreruniyorikai-fa-zhe-kasekiyuriteijian-shi-suruyouninatutadmm-ke-ti-tojin-hou-dot-pptx)
+  - [AWS セキュリティガードレールにより開発者がセキュリティ監視するようになったDMM、課題と今後](https://speakerdeck.com/runble1/awssekiyuriteikatoreruniyorikai-fa-zhe-kasekiyuriteijian-shi-suruyouninatutadmm-ke-ti-tojin-hou-dot-pptx)
 - **Security-JAWS【第 23 回】 [AWS Security Roadshow Japan 2021] 特別拡大版 (2021/11/11)**
-  - [DMMでAWSセキュリティガードレールを作ったので、開発者がAWSセキュリティをチェックする文化を広げていきたい](https://speakerdeck.com/runble1/dmmdeawssekiyuriteigadoreruwozuo-tutafalsede-kai-fa-zhe-gaawssekiyuriteiwotietukusuruwen-hua-woguang-geteikitai)
-- **: お客様事例から学ぶ - AWS における脅威検知と対応**
-  - [DMMにおける300アカウント67チームのAWSセキュリティを「開発者」に監視してもらうまでの道のり](https://speakerdeck.com/runble1/dmmniokeru300akaunto67timufalseawssekiyuriteiwo-kai-fa-zhe-nijian-shi-sitemoraumadefalsedao-falseri)
+  - [DMM で AWS セキュリティガードレールを作ったので、開発者が AWS セキュリティをチェックする文化を広げていきたい](https://speakerdeck.com/runble1/dmmdeawssekiyuriteigadoreruwozuo-tutafalsede-kai-fa-zhe-gaawssekiyuriteiwotietukusuruwen-hua-woguang-geteikitai)
+- **: お客様事例から学ぶ - AWS における脅威検知と対応(2021/11/04)**
+  - [DMM における 300 アカウント 67 チームの AWS セキュリティを「開発者」に監視してもらうまでの道のり](https://speakerdeck.com/runble1/dmmniokeru300akaunto67timufalseawssekiyuriteiwo-kai-fa-zhe-nijian-shi-sitemoraumadefalsedao-falseri)
 
 
 ### 表彰

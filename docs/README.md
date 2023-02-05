@@ -30,7 +30,7 @@
   - 役割 : プロジェクトリーダー/テックリード
   - 時期 : 2020/01 ~ 現在
   - 規模 : 2〜4 人チーム
-  - 技術 : AWS Organizations, GuardDuty, Config Rules, CloudFormation StackSets(service-managed), CircleCI, Github, Slack, JIRA
+  - 技術 : AWS Organizations, GuardDuty, Config Rules, CloudFormation StackSets(service-managed), CircleCI
 - **詳細：**
   - AWS 用 CSPM の構築
   - 300 以上の AWS アカウントを監視
@@ -50,7 +50,7 @@ DMM の開発者がセキュリティに参加する文化を実現。
   - 役割 : プロジェクトリーダー/テックリード
   - 時期 : 2021/09 ~ 現在
   - 規模 : 1〜2 人チーム
-  - 技術 : GCP Security Command Center, NotificationConfig, Manage Resources, Terraform CircleCI, Github, Slack, JIRA
+  - 技術 : GCP Security Command Center, NotificationConfig, Terraform, CircleCI
 - **詳細：**
   - GCP 用 Cloud Security Posture Management(CSPM) の構築
   - 200 以上の GCP プロジェクトを監視
@@ -82,7 +82,7 @@ DMM の開発者がセキュリティに参加する文化を実現。
   - 役割 : インフラエンジニア、運用オペレータ
   - 時期 : 2018/06 ~ 現在
   - 規模 : 5 人チーム
-  - 技術 : Splunk, McAfee NSM(IPS), DeepSecurity, Zabbix, Td-agent, SOC ベンダー
+  - 技術 : Splunk, McAfee NSM(IPS), DeepSecurity, Zabbix, Td-agent, SOC
 - **詳細：**
   - オンプレミス環境の PCIDSS セキュリティ監視基盤を構築
   - システム監視基盤を構築（LAMP システム）
